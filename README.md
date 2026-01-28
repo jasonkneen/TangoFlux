@@ -14,7 +14,11 @@
 
 * Powered by **Stability AI**
 ## News
+> 📣 1/28/26: TangoFlux has been accepted to ICLR 2026!
+
 > 📣 1/3/25: We have released CRPO dataset as well as the script to perform CRPO dataset generation!
+
+
 
 ## Demos
 
@@ -136,7 +140,8 @@ To run CRPO for multiple iteration, you can simply repeat the above the process 
       url={https://arxiv.org/abs/2412.21037}, 
 }
 ```
-
+## Questions
+Please email me at chiayu001 at e.ntu.edu.sg
 ## LICENSE
 
 ### 1. Model & License Summary
